@@ -12,12 +12,18 @@ body {
 }
 
 .cajafoto {
-	background-color: silver;
+	background-color: white;
+	border: 9px solid silver;
+	border-radius: 5%;
+	margin: 1.5%;
+	box-sizing: border-box;
+	width: 30%;
+
 	img {
 		width: 70%;
 	}
 }
 
 .row {
-	
+
 }
