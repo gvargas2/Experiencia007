@@ -1,12 +1,23 @@
 body {
-	background: black;
+	background: white;
 	font-size: 30px;
 }
 
 .container {
-	background: black;
+	background: white;
 
 	p {
-		font-size: 40px;
+		font-size: 0.4em;
 	}
+}
+
+.cajafoto {
+	background-color: silver;
+	img {
+		width: 70%;
+	}
+}
+
+.row {
+	
 }
