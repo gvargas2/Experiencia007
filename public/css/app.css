@@ -1,0 +1,87 @@
+body {
+  background: white;
+  font-size: 30px;
+}
+
+.glyphicon {
+  position: relative;
+  top: 12px;
+}
+
+.container {
+  background: white;
+}
+
+.container h2 {
+  font-size: 0.7em;
+}
+
+.container p {
+  font-size: 0.4em;
+  text-align: center;
+}
+
+.header {
+  background-image: url(https://github.com/DesafioLatam/actividad-bootstrap-photogallery/blob/master/assets/images/2.jpg?raw=true);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  color: white;
+  text-align: center;
+  padding: 2% 20%;
+}
+
+.header .btn-light {
+  color: black;
+  background-color: white;
+}
+
+.header h1 {
+  font-size: 150%;
+}
+
+.header p {
+  font-size: 1.7rem;
+}
+
+.cajafoto {
+  background-color: white;
+  border: 9px solid silver;
+  border-radius: 5%;
+  margin: 1.5%;
+  padding-bottom: 2%;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  width: 30%;
+  text-align: center;
+}
+
+.cajafoto img {
+  width: 100%;
+  margin-top: 10%;
+}
+
+.final {
+  background-color: white;
+  border: 1px solid silver;
+  padding: 1% 47.5%;
+  margin-bottom: 0;
+}
+
+.final .glyphicon-camera {
+  font-size: 80%;
+}
+
+.footer {
+  padding: 2% 0 1% 0;
+}
+
+.footer p {
+  font-size: 35%;
+  text-align: center;
+}
+
